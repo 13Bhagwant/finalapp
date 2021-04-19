@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/previous"
+        android:title="Previous"
+        android:contentDescription="Navigation button to previous joke."
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/next"
+        android:title="Next"
+        android:contentDescription="Navigation button to next joke."
+        app:showAsAction="always"
+        />
+
+</menu>
